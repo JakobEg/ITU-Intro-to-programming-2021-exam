@@ -1,0 +1,2 @@
+# Write a single character on the next line: a, b, c, or d. 
+b
